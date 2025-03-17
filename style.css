@@ -1,0 +1,18 @@
+*{
+    width: 100%;
+    min-height: 100vh;
+    background: black;
+    color: #fff;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
+
+/* .container{ 
+    width: 800px;
+    height: 180px;
+} */
+
+.clock{
+    border: #fff solid 1px;
+}
